@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Naman Jain] 👋
 
 Welcome to my GitHub profile! I'm a passionate data analyst with a strong background in data analysis and visualization. I'm always eager to learn new things and contribute to interesting projects.
 
