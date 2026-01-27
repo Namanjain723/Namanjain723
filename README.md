@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a strong backgr
 - **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau
 - **Tools**: Jupyter Notebook, Excel, Git, GitHub
 
-## 📊 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📝 Certifications
 
