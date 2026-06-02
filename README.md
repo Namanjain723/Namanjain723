@@ -19,6 +19,7 @@
 - 🏢 Founder of **PixlForge Studio** — high-converting websites, data dashboards, and operational automation for real businesses.
 - 🔭 Strong with **Python · SQL · Power BI** for analytics, and **Google Apps Script · JavaScript** for live business systems.
 - 🤖 Currently building **AI products** (LLM-powered analytics) and **WordPress** business websites.
+- 🎓 **B.Tech Computer Science — Data Science specialization** @ The NorthCap University, Gurgaon (2022–2026).
 - 💬 Ask me about: data analysis, dashboards, business automation, and AI agents.
 
 ---
@@ -91,7 +92,14 @@
 
 ---
 
-## 🎓 Certifications
+## 🎓 Education
+
+**B.Tech in Computer Science — Specialization in Data Science**
+🏫 *The NorthCap University, Gurgaon* · 📅 *2022 – 2026*
+
+---
+
+## 📜 Certifications
 
 - Career Essentials in Data Analysis — **Microsoft & LinkedIn**
 - Learning Data Analytics: Foundations — **LinkedIn Learning**
@@ -106,6 +114,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pixlforgestudio03.netlify.app-7C6CFF?style=for-the-badge&logo=netlify&logoColor=white)](https://pixlforgestudio03.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-pixlforge.studio03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pixlforge.studio03@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@namanjan723-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/namanjan723)
 
 *Open to freelance, contract & collaboration — worldwide.* ⚡ Built by **Naman Jain** · **PixlForge Studio**
 
