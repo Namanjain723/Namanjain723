@@ -16,9 +16,10 @@
 
 ## 👨‍💻 About me
 
-- 🧠 **Data Analyst & AI Developer** — Python · SQL · Power BI · EDA · dashboards · business automation.
-- 🏢 Founder of **PixlForge Studio** — websites, data dashboards and end-to-end automation for real businesses.
-- 📊 Data Analyst Intern @ **Nishtya Infotech** — cleaning, EDA and KPI reporting on real business data.
+- 🧠 **Data Analyst & AI Developer** -- Python · SQL · Power BI · EDA · dashboards · business automation.
+- 🏢 Founder of **PixlForge Studio** -- websites, data dashboards and end-to-end automation for real businesses.
+- 📊 EX Data Analyst Intern @ **Nishtya Infotech** -- cleaning, EDA and KPI reporting on real business data.
+- 📊 Management Information System Analyst @ **Gupta Creations Pvt. Ltd.** -- Building Agentic AI Tools.
 - 🎓 **B.Tech Computer Science — Data Science specialization** @ The NorthCap University, Gurugram (2022–2026).
 - 🤖 Currently building **AI-powered analytics products** and **WordPress** business websites.
 
