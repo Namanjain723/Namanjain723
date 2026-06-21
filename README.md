@@ -228,7 +228,7 @@ My long-term direction is **Data Science** — I'm building the intersection of 
 
 ## 💼 Experience
 
-**MIS Analyst** — *Gupta Creations Pvt. Ltd.* · 2025 – Present
+**MIS Analyst** — *Gupta Creations Pvt. Ltd.* · Apr 2025 – Present
 - Built the Business Command Center live for 73 employees across 7 store locations.
 - Agentic AI tools for retail ops: task scoring, alteration pipeline, performance grading.
 
