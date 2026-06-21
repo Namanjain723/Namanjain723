@@ -2,7 +2,7 @@
 
 ![Naman Jain — AI Products & Automation](assets/banner.png)
 
-### Founder of **PixlForge Studio** · Delhi, India 🇮🇳
+### Founder of **PixlForge Studio** · Rewari, India 🇮🇳
 **I build production-grade AI agents, automation systems and data science solutions for real businesses.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pixlforgestudio03-7C6CFF?style=for-the-badge)](https://pixlforgestudio03.netlify.app/)
