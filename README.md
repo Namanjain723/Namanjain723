@@ -3,7 +3,7 @@
 ![Naman Jain — AI Products & Automation](assets/banner.png)
 
 ### Founder of **PixlForge Studio** · Delhi, India 🇮🇳
-**I build production-grade AI agents, automation systems and dashboards for real businesses.**
+**I build production-grade AI agents, automation systems and data science solutions for real businesses.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pixlforgestudio03-7C6CFF?style=for-the-badge)](https://pixlforgestudio03.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-jain-a41893266)
@@ -20,6 +20,7 @@
 - 🏢 **MIS Analyst @ Gupta Creations Pvt. Ltd.** — built the Business Command Center used by 73 employees across 7 store locations.
 - 📊 **Data Analyst Intern @ Nishtya Infotech** — EDA, KPI reporting and SQL analysis on real business data.
 - 🎓 **B.Tech CS + Data Science** @ The NorthCap University, Gurugram (2022–2026).
+- 📈 **Building toward Data Science** — combining domain expertise in retail ops, finance, and product analytics with ML, deep learning, and AI engineering. Every product I ship makes the data richer and the models smarter.
 - 🚀 **Currently building:** a portfolio of AI agents that each target a different B2B niche — each earns recurring revenue on its own.
 
 ---
@@ -114,7 +115,7 @@ One screen replaces HR tracker, task manager, performance tool, store-monitoring
 <td width="50%" valign="top">
   <a href="https://github.com/Namanjain723/pixlforge-frontdesk"><img src="https://raw.githubusercontent.com/Namanjain723/pixlforge-frontdesk/main/assets/hero.png" alt="Frontdesk AI"/></a>
   <br><b>📞 Frontdesk AI</b>
-  <br><sub>AI phone receptionist — answers every call on the first ring, books appointments, handles FAQs, zero missed calls. ₹3,999/month. <em>Claude · Voice API · Calendar</em></sub>
+  <br><sub>AI phone receptionist — answers every call on the first ring, books appointments, handles FAQs, zero missed calls. <em>Claude · Plivo · Deepgram · Azure TTS</em></sub>
   <br>🔗 <a href="https://github.com/Namanjain723/pixlforge-frontdesk"><b>View repo →</b></a>
 </td>
 </tr>
@@ -136,15 +137,60 @@ One screen replaces HR tracker, task manager, performance tool, store-monitoring
 
 ---
 
-## 📌 More projects
+## 📊 Data Science & Analytics
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| ₿ **[Bitcoin Sentiment Trader Analysis](https://github.com/Namanjain723/Bitcoin-Sentiment-Trader-Analysis)** | How market Fear & Greed drives trader profitability & risk, on real trade data | Python · Pandas |
-| 📊 **[Sales Performance & Customer Insights](https://github.com/Namanjain723/sales-performance-and-customer-insights-dashboard-)** | Power BI + SQL Server BI dashboards on AdventureWorks | SQL · Power BI · DAX |
-| 📈 **[Stock Price Prediction (LSTM)](https://github.com/Namanjain723/Stock-prediction-)** | Deep-learning time-series forecast of Netflix prices | TensorFlow · Keras |
-| 🚢 **[Titanic Survival Classification](https://github.com/Namanjain723/Titanic-classification)** | EDA + ML classification of passenger survival | scikit-learn |
-| 🧪 **[A/B Testing Analysis](https://github.com/Namanjain723/AB-test-ananlysis-)** | Two-sample t-test to validate an experiment | SciPy · Pandas |
+My long-term direction is **Data Science** — I'm building the intersection of domain knowledge (retail ops, finance, marketing), applied ML, and production AI systems. Every product I ship produces real business data; the models I'm learning now will process it.
+
+**Published research:**
+
+> 📄 **Business Performance Optimization Through Sales Data Analysis**
+> *Preprint · Zenodo · DOI: [10.5281/zenodo.18069636](https://doi.org/10.5281/zenodo.18069636)*
+> EDA + multi-KPI analysis on real retail sales data. Actionable findings presented to business stakeholders.
+
+**Projects:**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <b>₿ Bitcoin Sentiment Trader Analysis</b>
+  <br><sub>Does the Crypto Fear & Greed Index actually predict trader profitability? Analysed real trade-level data to find out — EDA, correlation analysis, risk-return breakdown by sentiment regime.</sub>
+  <br><sub><em>Python · Pandas · Matplotlib · Seaborn · EDA</em></sub>
+  <br>🔗 <a href="https://github.com/Namanjain723/Bitcoin-Sentiment-Trader-Analysis">View repo →</a>
+</td>
+<td width="50%" valign="top">
+  <b>📈 Stock Price Prediction (LSTM)</b>
+  <br><sub>Deep-learning time-series model forecasting Netflix stock prices. Multi-step LSTM with train/val/test split, rolling window, RMSE benchmarked against baseline.</sub>
+  <br><sub><em>Python · TensorFlow · Keras · LSTM · NumPy</em></sub>
+  <br>🔗 <a href="https://github.com/Namanjain723/Stock-prediction-">View repo →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <b>📊 Sales Performance & Customer Insights</b>
+  <br><sub>Full BI solution on AdventureWorks — multi-page Power BI report covering revenue, customer segments, product performance, returns. Complex DAX measures + SQL Server backend.</sub>
+  <br><sub><em>SQL Server · Power BI · DAX · Data Modelling</em></sub>
+  <br>🔗 <a href="https://github.com/Namanjain723/sales-performance-and-customer-insights-dashboard-">View repo →</a>
+</td>
+<td width="50%" valign="top">
+  <b>🧪 A/B Testing Analysis</b>
+  <br><sub>Rigorous two-sample t-test on a real experiment — normality checks, variance testing, effect size (Cohen's d), confidence intervals, business interpretation of results.</sub>
+  <br><sub><em>Python · SciPy · Pandas · Statistical Inference</em></sub>
+  <br>🔗 <a href="https://github.com/Namanjain723/AB-test-ananlysis-">View repo →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <b>🚢 Titanic Survival Classification</b>
+  <br><sub>End-to-end ML pipeline — feature engineering, missing-value imputation, model comparison (Logistic Regression, Random Forest, SVM), cross-validated accuracy.</sub>
+  <br><sub><em>Python · scikit-learn · Matplotlib · EDA</em></sub>
+  <br>🔗 <a href="https://github.com/Namanjain723/Titanic-classification">View repo →</a>
+</td>
+<td width="50%" valign="top">
+  <b>📐 What's next</b>
+  <br><sub>Currently deepening: time-series forecasting at production scale, NLP for unstructured business data, and ML pipelines that feed back into the AI products I'm shipping. These repos will appear here as they're built.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -163,17 +209,20 @@ One screen replaces HR tracker, task manager, performance tool, store-monitoring
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Data & ML**
+**Data Science & ML**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
 **Visualization & BI**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
@@ -186,11 +235,6 @@ One screen replaces HR tracker, task manager, performance tool, store-monitoring
 **Data Analyst Intern** — *Nishtya Infotech Pvt. Ltd., Gurugram* · Jun 2025 – Mar 2026
 - Cleaned and analysed 10,000+ records with SQL and Excel.
 - Built KPI reports and visual summaries supporting data-driven business decisions.
-
-## 📚 Publication
-
-**Business Performance Optimization Through Sales Data Analysis** — preprint on **Zenodo**
-🔗 DOI: [10.5281/zenodo.18069636](https://doi.org/10.5281/zenodo.18069636)
 
 ## 🎓 Education
 
@@ -208,12 +252,14 @@ One screen replaces HR tracker, task manager, performance tool, store-monitoring
 
 <div align="center">
 
-### 📫 Let's build something
+### 📫 Want a demo or want to work together?
+
+**I'm open to:** AI automation builds · Data analysis projects · Freelance engagements · Full-time Data Science roles (2026+)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pixlforgestudio03.netlify.app-7C6CFF?style=for-the-badge&logo=netlify&logoColor=white)](https://pixlforgestudio03.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naman--jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-jain-a41893266)
 [![Email](https://img.shields.io/badge/Email-info@pixlforgestudio.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pixlforgestudio.in)
 
-*Open to AI automation projects & freelance — worldwide.* ⚡ **Naman Jain** · PixlForge Studio
+*Building AI + Data Science at the same time — because the best models run on real business data.* ⚡ **Naman Jain** · PixlForge Studio
 
 </div>
