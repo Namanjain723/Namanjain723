@@ -5,7 +5,7 @@
 ### Founder of **PixlForge Studio** · Rewari, India 🇮🇳
 **I build production-grade AI agents, automation systems and data science solutions for real businesses.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pixlforgestudio03-7C6CFF?style=for-the-badge)](https://pixlforgestudio03.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pixlforgestudio.in-7C6CFF?style=for-the-badge)](https://pixlforgestudio.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-jain-a41893266)
 [![Email](https://img.shields.io/badge/Email-info@pixlforgestudio.in-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pixlforgestudio.in)
 [![Instagram](https://img.shields.io/badge/Instagram-@namanjan723-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/namanjan723)
@@ -256,7 +256,7 @@ My long-term direction is **Data Science** — I'm building the intersection of 
 
 **I'm open to:** AI automation builds · Data analysis projects · Freelance engagements · Full-time Data Science roles (2026+)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pixlforgestudio03.netlify.app-7C6CFF?style=for-the-badge&logo=netlify&logoColor=white)](https://pixlforgestudio03.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pixlforgestudio.in-7C6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pixlforgestudio.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naman--jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-jain-a41893266)
 [![Email](https://img.shields.io/badge/Email-info@pixlforgestudio.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pixlforgestudio.in)
 
