@@ -283,6 +283,7 @@ My long-term direction is **Data Science** — I'm building the intersection of 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pixlforgestudio.in-7C6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pixlforgestudio.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naman--jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-jain-a41893266)
 [![Email](https://img.shields.io/badge/Email-info@pixlforgestudio.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pixlforgestudio.in)
+[![Direct](https://img.shields.io/badge/Direct-namancric18@gmail.com-6B7280?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:namancric18@gmail.com)
 
 *Building AI + Data Science at the same time — because the best models run on real business data.* ⚡ **Naman Jain** · PixlForge Studio
 
