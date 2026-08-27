@@ -25,6 +25,17 @@
 
 ---
 
+## 📈 By the numbers
+
+<div align="center">
+
+| 🤖 | 👥 | 🏬 | 📄 |
+|:--:|:--:|:--:|:--:|
+| **10** | **73** | **7** | **1** |
+| AI products shipped | employees running on a system I built | store locations live in production | peer-reviewable preprint published |
+
+</div>
+
 ## 🏆 Flagship Products
 
 ### 🎛 Business Command Center
@@ -225,6 +236,19 @@ My long-term direction is **Data Science** — I'm building the intersection of 
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img height="165" alt="Naman Jain's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Namanjain723&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=7C6CFF&icon_color=2DD4BF&bg_color=0D1117" />
+<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namanjain723&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7C6CFF&bg_color=0D1117" />
+
+<img width="98%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Namanjain723&theme=tokyo-night&hide_border=true&area=true&color=7C6CFF&line=2DD4BF&point=FFFFFF" />
+
+</div>
 
 ## 💼 Experience
 
