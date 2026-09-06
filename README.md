@@ -21,8 +21,8 @@
 - 📊 **Data Analyst Intern @ Nishtya Infotech** - EDA, KPI reporting and SQL analysis on real business data.
 - 🧠 **Claude API, agent architecture and RAG** - tool-use routing, multi-agent pipelines and voice AI orchestration running in production, not demos.
 - 🎓 **B.Tech CS + Data Science** @ The NorthCap University, Gurugram (2022-2026).
-- 📈 **Building toward Data Science** - combining domain expertise in retail ops, finance, and product analytics with ML, deep learning, and AI engineering. Every product I ship makes the data richer and the models smarter.
-- 🚀 **Currently building:** a portfolio of AI agents that each target a different B2B niche - each earns recurring revenue on its own.
+- 📈 **Growing into Data Science** - I pair real domain knowledge (retail ops, finance, product analytics) with ML, deep learning and AI engineering. Every product I ship creates more real data to learn from.
+- 🚀 **Currently building:** a portfolio of AI agents, each aimed at a different B2B niche and each earning recurring revenue on its own.
 
 ---
 
@@ -33,7 +33,7 @@
 | 🤖 | 👥 | 🏬 | 📄 |
 |:--:|:--:|:--:|:--:|
 | **10** | **185** | **7** | **1** |
-| AI products shipped | employees running on a system I built | store locations live in production | peer-reviewable preprint published |
+| AI products shipped | employees running on a system I built | store locations live in production | research paper published on Zenodo |
 
 </div>
 
@@ -58,7 +58,7 @@ One screen replaces HR tracker, task manager, performance tool, store-monitoring
 ---
 
 ### 📊 IntelliSheets AI
-> Self-hosted agentic data studio - drop a messy spreadsheet, get clean data, dashboards (including interactive 3D), 90-day forecasts, and a chat-with-your-data AI analyst. 100% local, GDPR-compliant. Tally XML import is a moat no other tool has.
+> Self-hosted agentic data studio - drop a messy spreadsheet, get clean data, dashboards (including interactive 3D), 90-day forecasts, and a chat-with-your-data AI analyst. 100% local, GDPR-compliant. Tally XML import is something no other tool offers.
 
 **Stack:** Python · Streamlit · Plotly · Claude (BYOK) · 100% local
 🔗 **[View repo →](https://github.com/Namanjain723/pixlforge-intellisheets)**
@@ -151,12 +151,12 @@ One screen replaces HR tracker, task manager, performance tool, store-monitoring
 
 ## 📊 Data Science & Analytics
 
-My long-term direction is **Data Science** - I'm building the intersection of domain knowledge (retail ops, finance, marketing), applied ML, and production AI systems. Every product I ship produces real business data; the models I'm learning now will process it.
+My long-term direction is **Data Science** - I work where domain knowledge (retail ops, finance, marketing), applied ML and production AI systems meet. Every product I ship produces real business data; the models I'm learning now will process it.
 
 **Published research:**
 
 > 📄 **Business Performance Optimization Through Sales Data Analysis**
-> *Preprint · Zenodo · DOI: [10.5281/zenodo.18069636](https://doi.org/10.5281/zenodo.18069636)*
+> *Published on Zenodo · DOI: [10.5281/zenodo.18069636](https://doi.org/10.5281/zenodo.18069636)*
 > EDA + multi-KPI analysis on real retail sales data. Actionable findings presented to business stakeholders.
 
 **Projects:**
@@ -165,7 +165,7 @@ My long-term direction is **Data Science** - I'm building the intersection of do
 <tr>
 <td width="50%" valign="top">
   <b>₿ Bitcoin Sentiment Trader Analysis</b>
-  <br><sub>Does the Crypto Fear & Greed Index actually predict trader profitability? Analysed real trade-level data to find out - EDA, correlation analysis, risk-return breakdown by sentiment regime.</sub>
+  <br><sub>Does the Crypto Fear & Greed Index actually predict trader profitability? Analyzed real trade-level data to find out - EDA, correlation analysis, risk-return breakdown by sentiment regime.</sub>
   <br><sub><em>Python · Pandas · Matplotlib · Seaborn · EDA</em></sub>
   <br>🔗 <a href="https://github.com/Namanjain723/Bitcoin-Sentiment-Trader-Analysis">View repo →</a>
 </td>
@@ -180,7 +180,7 @@ My long-term direction is **Data Science** - I'm building the intersection of do
 <td width="50%" valign="top">
   <b>📊 Sales Performance & Customer Insights</b>
   <br><sub>Full BI solution on AdventureWorks - multi-page Power BI report covering revenue, customer segments, product performance, returns. Complex DAX measures + SQL Server backend.</sub>
-  <br><sub><em>SQL Server · Power BI · DAX · Data Modelling</em></sub>
+  <br><sub><em>SQL Server · Power BI · DAX · Data Modeling</em></sub>
   <br>🔗 <a href="https://github.com/Namanjain723/sales-performance-and-customer-insights-dashboard-">View repo →</a>
 </td>
 <td width="50%" valign="top">
@@ -268,7 +268,7 @@ My long-term direction is **Data Science** - I'm building the intersection of do
 - Launched Frontdesk AI (voice receptionist, live in 5+ Kamla Nagar, Delhi salons at ₹3,999/month), Sentinel (5-agent autonomous lead pipeline) and IntelliSheets (agentic data studio) - all commercially deployed with recurring revenue.
 
 **Data Analyst Intern** - *Nishtya Infotech Pvt. Ltd., Gurugram* · Jun 2025 - Mar 2026
-- Cleaned and analysed 10,000+ records with SQL, Python (Pandas, NumPy) and advanced Excel; applied EDA and hypothesis testing to surface KPI anomalies that informed weekly business decisions.
+- Cleaned and analyzed 10,000+ records with SQL, Python (Pandas, NumPy) and advanced Excel; applied EDA and hypothesis testing to surface KPI anomalies that informed weekly business decisions.
 - Built Power BI dashboards with DAX and Power Query for cross-functional reporting, reducing ad hoc analytics requests organization-wide.
 
 ## 🎓 Education
@@ -278,7 +278,7 @@ My long-term direction is **Data Science** - I'm building the intersection of do
 
 ## 📜 Certifications
 
-- **Jobaaj Learning** - Data & Business Analytics Specialisation, Nano Degree (2026)
+- **Jobaaj Learning** - Data & Business Analytics Specialization, Nano Degree (2026)
 - **Physics Wallah** - Data Science with Generative AI (2025)
 - **Microsoft** - Azure Internship & Training (2025)
 - **Microsoft & NASBA** - Learning Data Analytics, Part 2
