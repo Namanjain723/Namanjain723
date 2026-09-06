@@ -173,7 +173,7 @@ My long-term direction is **Data Science** - I work where domain knowledge (reta
   <b>📈 Stock Price Prediction (LSTM)</b>
   <br><sub>Deep-learning time-series model forecasting Netflix stock prices. Multi-step LSTM with train/val/test split, rolling window, RMSE benchmarked against baseline.</sub>
   <br><sub><em>Python · TensorFlow · Keras · LSTM · NumPy</em></sub>
-  <br>🔗 <a href="https://github.com/Namanjain723/Stock-prediction-">View repo →</a>
+  <br>🔗 <a href="https://github.com/Namanjain723/stock-price-prediction-lstm">View repo →</a>
 </td>
 </tr>
 <tr>
@@ -181,13 +181,13 @@ My long-term direction is **Data Science** - I work where domain knowledge (reta
   <b>📊 Sales Performance & Customer Insights</b>
   <br><sub>Full BI solution on AdventureWorks - multi-page Power BI report covering revenue, customer segments, product performance, returns. Complex DAX measures + SQL Server backend.</sub>
   <br><sub><em>SQL Server · Power BI · DAX · Data Modeling</em></sub>
-  <br>🔗 <a href="https://github.com/Namanjain723/sales-performance-and-customer-insights-dashboard-">View repo →</a>
+  <br>🔗 <a href="https://github.com/Namanjain723/sales-insights-dashboard">View repo →</a>
 </td>
 <td width="50%" valign="top">
   <b>🧪 A/B Testing Analysis</b>
   <br><sub>Rigorous two-sample t-test on a real experiment - normality checks, variance testing, effect size (Cohen's d), confidence intervals, business interpretation of results.</sub>
   <br><sub><em>Python · SciPy · Pandas · Statistical Inference</em></sub>
-  <br>🔗 <a href="https://github.com/Namanjain723/AB-test-ananlysis-">View repo →</a>
+  <br>🔗 <a href="https://github.com/Namanjain723/ab-test-analysis">View repo →</a>
 </td>
 </tr>
 <tr>
